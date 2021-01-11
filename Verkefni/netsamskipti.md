@@ -49,9 +49,9 @@ Svaraðu spurningunum eftir bestu getu og vistaðu skjalið aftur í VEF2VF geym
     **Svar:protocol hvar serverinn geymir engin gögn frá notandan**  
 1. Hvaða skýring passar við "GET Request" _Takið út röngu skýringuna_
     * **GET** sendir gögn á miðlara, krafan er ekki geymd í vinnsluminni og birtist ekki í vefslóð
-    *svar: **GET** sækir gögn sem beðið er um af miðlara, krafan birtist í vefslóðinni og er geymd í vinnsluminni vafrans
+    **svar:** **GET** sækir gögn sem beðið er um af miðlara, krafan birtist í vefslóðinni og er geymd í vinnsluminni vafrans
 1. Hvaða skýring passar við POST request?
     * **POST** sendir gögn á miðlara, krafan birtist ekki í vefslóð og fer ekki í vinnsluminnið (Cache)
-    * **POST** sækir gögn sem beðið er um af miðlara, krafan birtist í vefslóðinni og er geymd í vinnsluminni vafrans
+    * **svar** **POST** sækir gögn sem beðið er um af miðlara, krafan birtist í vefslóðinni og er geymd í vinnsluminni vafrans
 
 
